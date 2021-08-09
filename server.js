@@ -3,8 +3,10 @@ const app = express()
 
 const PORT = process.env.PORT || 3001
 
+// use static files in public folder
 app.use(express.static("public"))
 
+//middleware
 app.use(express.urlencoded({extended:true}))
 app.use(express.json())
 
