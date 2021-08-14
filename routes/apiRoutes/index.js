@@ -1,6 +1,7 @@
 const router = require ("express").Router()
 // this is the generic import recommended by uuid-- this creates Universally Unique ids
 const { v4: uuidv4} = require('uuid');
+// HEROKU DOESN'T ALLOW FS //
 // const fs = require("fs")
 let db = require("../../db/db.json")
 
