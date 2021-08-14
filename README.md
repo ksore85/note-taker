@@ -12,7 +12,7 @@ This application allows users to create notes, save notes for later use and dele
 
 
 ## Usage
-To create, save and delete notes[View the Note Taker application on Heroku](https://damp-peak-78219.herokuapp.com/)
+To create, save and delete notes [View the Note Taker application on Heroku](https://damp-peak-78219.herokuapp.com/)
 
 You can also view a step by step video of the application's usage at: (https://drive.google.com/file/d/1fYFI90t_ARLrZIYNKByefbU9Wgui_hkz/view)
 
